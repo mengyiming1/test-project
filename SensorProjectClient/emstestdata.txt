@@ -1,0 +1,12 @@
+24.5,234.2444,0.00004,dd,invalid data less than 5 fields,
+24.5,235.2444,9.004,54,2.5,Invalid interger
+24.5,236.2444,0.004,555.5,3,Invalid interger
+24.5,237.2444,0.04,4,4,This is a valid ems data
+24.5,238.2444,0.5,556,5,This is a valid ems data
+1.11E+00,239.2444,5,23232,6,This is a valid ems data
+24.5,240.2444,3,1747140.22,5,This is a invalid ems data
+24.5,24.5,23343545,2x356,4,"Invalid interger, non-number characters"
+24.5,24.5,3,2420992.64,34,This is a invalid ems data
+24.5,24.5,3,2757918.85,w321,"Invalid interger, non-number characters"
+14.55,a,3,3094845.06,24,"Invalid float, non-number characters"
+a,24.5,3,3431771.27,53,"Invalid float, non-number characters"
