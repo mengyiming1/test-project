@@ -1,0 +1,12 @@
+256,24.5,2256.43,3,this is a test
+255,25.5,2256.43,3,this is a test
+254,26.5,2256.43,3,this is a test
+253,27.5,2256.43,3,this is a test
+252,28.5,2256.43,3,this is a test
+251,1.99999E+16,2256.43,3,wrong data with too big float
+256,24.5,1.99999E+16,3,wrong data with too big float
+256,24.5,2256.3,23343545,wrong data with too big int
+19999888,24.5,2256.43,3,wrong  data with too big int
+a,24.5,2256.43,3,wrong  data with an unexpected charater
+256,a,2256.43,3,wrong  data with an unexpected charater
+256,24.5,a,3,wrong  data with an unexpected charater
