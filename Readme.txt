@@ -50,7 +50,7 @@ Sensor Data Transform Test Project
    Or follow the following steps
      >Start Windows Command Prompt
      >cd directory  which stores SensorProjectClient.exe
-     >.SensorProjectClient [server host name]
+     >.\SensorProjectClient [server host name]
       * if no host name is given, program will use "127.0.0.1" by default
 *Port number 1024 is used
 *Client keeps looping in sending sensor data. Press CTL+c to stop the client program
